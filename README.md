@@ -1,2 +1,1 @@
-Harry Kuril
-Profile under construction.
+Harry Kuril. Profile under construction.
