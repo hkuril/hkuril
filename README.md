@@ -1,1 +1,1 @@
-Visit my (hkuril.com)[homepage] to learn more about me.
+Visit my [hkuril.com](homepage) to learn more about me.
